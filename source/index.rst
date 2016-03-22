@@ -1,6 +1,7 @@
 ﻿HSP SDK example
 ==================================
- 
+주철민
+
 Hangame Smart Platform SDK
  
 HSP SDK는 NHN Entertainment의 탄탄한 게임플랫폼 기술력을 기반으로
