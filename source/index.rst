@@ -15,9 +15,9 @@ HSP SDK를 처음 접하신다면 HSP SDK Quick Guide로 시작하세요!
 
 .. toctree::
    :maxdepth: 3
-
-   license
-   help
+	welcome
+ 	license
+ 	help
 
 Indices and tables
 ==================
