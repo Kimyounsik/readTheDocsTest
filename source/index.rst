@@ -1,6 +1,7 @@
 ﻿HSP SDK example
 ==================================
 주철민
+예민이 바보
 
 Hangame Smart Platform SDK
  
