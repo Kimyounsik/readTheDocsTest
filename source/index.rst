@@ -11,6 +11,9 @@ No. 1 NHN Entertainment의 경쟁력입니다.
  
 HSP SDK를 처음 접하신다면 HSP SDK Quick Guide로 시작하세요!
 
+Guide
+^^^^^
+
 .. toctree::
    :maxdepth: 3
  	license
